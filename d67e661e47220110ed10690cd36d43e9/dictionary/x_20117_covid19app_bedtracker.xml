@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Bedtracker" max_length="40" name="x_20117_covid19app_bedtracker" type="collection">
+        <element label="bedsAvailbale" max_length="40" name="bedsavailbale" type="integer"/>
+        <element label="BedsUsed" max_length="40" name="bedsused" type="integer"/>
+        <element label="hospital" max_length="40" name="hospital" type="string"/>
+        <element label="totalbed" max_length="40" name="totalbed" type="integer"/>
+    </element>
+</database>
