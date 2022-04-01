@@ -3,6 +3,8 @@
         <element label="Address" max_length="40" name="address" type="string"/>
         <element label="City" max_length="40" name="city" type="string"/>
         <element label="Hospital Name" max_length="40" name="hospital_name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Pincode" max_length="40" name="pincode" type="string"/>
+        <element label="TelephoneNo" max_length="40" name="telephoneno" type="integer"/>
     </element>
 </database>
