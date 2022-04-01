@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Covid19 Application</name>
+        <order/>
+        <roles>x_20117_covid19app.bedtracker_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-01 14:52:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f76fa29247620110ed10690cd36d436e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Covid19 Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Covid19Application" source="x_20117_covid19app">d67e661e47220110ed10690cd36d43e9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Covid19Application">d67e661e47220110ed10690cd36d43e9</sys_scope>
+        <sys_update_name>sys_ui_application_f76fa29247620110ed10690cd36d436e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-01 14:52:50</sys_updated_on>
+    </sys_ui_application>
+</record_update>
